@@ -1,0 +1,15 @@
+{
+    "files": {
+        "index.js": "da13ea8e425fe04f570d52cebc09757137e1d405233db8f5945121e3473d2a7b",
+        "module.json": "146e75359b8352f3e04fbab8bf3ffd9289cb9f6888f76749cf7b2f403b3c81e7"
+    },
+    "defs": {
+        "S_ACTION_END": 5,
+        "S_CAN_LOCKON_TARGET": 3,
+        "S_CREATURE_LIFE": 3,
+        "S_CREST_APPLY": 2,
+        "S_CREST_INFO": 2,
+        "S_LOGIN": 14,
+        "S_RETURN_TO_LOBBY": "raw"
+    }
+}
